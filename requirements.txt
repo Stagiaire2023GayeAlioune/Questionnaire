@@ -165,7 +165,7 @@ language_tool_python==2.9.0
 lazy_loader==0.3
 lazypredict==0.2.12
 libclang==16.0.6
-lief==0.13.2
+lief
 lightgbm==4.5.0
 llvmlite==0.43.0
 lxml==4.9.2
